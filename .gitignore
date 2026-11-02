@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+
+# OS temporary files
+Thumbs.db
